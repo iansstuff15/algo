@@ -1,0 +1,29 @@
+.container{
+    border: none;
+    /* background-color: grey; */
+    margin: 1rem 0;
+    width: 30vw;
+    background-color: #03012c;
+    padding: .5rem 1rem;
+    border-radius: .5rem;
+    color: white;
+    /* border: grey 1px solid; */
+    backdrop-filter: saturate(180%) blur(100px);
+
+}
+.label{
+    font-size: .8rem;
+}
+.input{
+    background-color: #03012c;
+    /* background-color: grey; */
+    border: none;
+    color: white;
+    width: 95%;
+    margin-left: .5rem;
+     backdrop-filter: saturate(50%) blur(100px);
+
+}
+.input::-ms-reveal {
+    filter: invert(100%);
+  }

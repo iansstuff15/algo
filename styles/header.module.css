@@ -1,0 +1,18 @@
+.container{
+    /* background-color: black; */
+    padding: 1vh 10vw ;
+    color: white;
+    
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    width: 100%;
+    z-index: 4;
+    background: rgb(2,0,36);
+    background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(13,13,13,0) 0%, rgba(0,0,0,1) 100%);
+    backdrop-filter: saturate(180%) blur(100px);
+    -webkit-backdrop-filter: saturate(180%) blur(100px);
+
+}

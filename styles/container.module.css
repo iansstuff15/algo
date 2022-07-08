@@ -1,0 +1,13 @@
+.container{
+    border: none;
+    /* background-color: grey; */
+    min-width: 50%;
+    width: fit-content;
+    background-color: #03012c;
+    padding: 1rem 1.5rem;
+    border-radius: .5rem;
+    color: white;
+    /* border: grey 1px solid; */
+    backdrop-filter: saturate(180%) blur(100px);
+
+}

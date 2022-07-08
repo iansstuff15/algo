@@ -1,0 +1,16 @@
+.container{
+
+    padding: 10vh 10vw;
+    background: rgb(2,0,36);
+    background: rgb(2,0,36);
+    background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(2,0,38,1) 0%, rgba(2,0,35,1) 7%, rgba(2,0,27,1) 24%, rgba(1,0,20,1) 43%, rgba(1,0,18,1) 65%, rgba(1,0,9,1) 82%, rgba(0,0,0,1) 100%);
+   
+    overflow-x: hidden;
+
+}
+
+.child_container{
+    min-width: 100vw;
+    min-height: 100vh;
+    color: white;
+}

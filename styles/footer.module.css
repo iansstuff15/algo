@@ -1,0 +1,28 @@
+.container{
+    background-color: #03012c;
+    /* background-color: grey; */
+    padding: 10vh 10vw ;
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    grid-template-rows: 1fr;
+    grid-column-gap: 1rem;
+    grid-row-gap: 0px;
+    color: white;
+}
+
+.container p{
+    font-size: .6rem;
+    width: 70%;
+}
+.container h2{
+    font-size: 1.5rem;
+    margin-top: .5rem;
+}
+.container h5{
+    margin-bottom: .5rem;
+    font-size: .8rem;
+}
+.container h6{
+    margin: .5rem 0 .5rem 1rem;
+    font-weight: normal;
+}
